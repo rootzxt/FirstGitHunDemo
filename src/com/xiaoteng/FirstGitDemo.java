@@ -6,6 +6,7 @@ package com.xiaoteng;
  */
 public class FirstGitDemo {
     public static void main(String[] args) {
-        System.out.println("第一个github程序");
+        System.out.println("我换内容了阿达啊啊");
+        System.out.println("我加了内容");
     }
 }
