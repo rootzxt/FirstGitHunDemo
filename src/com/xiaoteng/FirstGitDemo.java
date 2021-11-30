@@ -6,16 +6,11 @@ package com.xiaoteng;
  */
 public class FirstGitDemo {
     public static void main(String[] args) {
-
-
        int i=10;
        int y=20;
        int a=30;
-
         System.out.println("我换内容了阿达啊啊");
         System.out.println("我加了内容");
-       int s=10;
-        System.out.println("ccc没提交合并");
-
+        System.out.println("bb分支添加内容");
     }
 }
