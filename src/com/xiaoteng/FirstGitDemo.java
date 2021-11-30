@@ -11,5 +11,6 @@ public class FirstGitDemo {
        int a=30;
         System.out.println("我换内容了阿达啊啊");
         System.out.println("我加了内容");
+        System.out.println("bb分支添加内容");
     }
 }
